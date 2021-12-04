@@ -2,7 +2,7 @@
 
 WIP[Work In Progress]
 
-
+This is our first group collaboration project after competing as a team in the Girl Develop It 2021 Hackathon. Our team worked so well together we continued working together. This group of female-only coders have banded together to learn, grow, and work with each other through this Mentorship Program (created, managed, and maintained by Ms. Amber Merritt.) We will be making a "Mental Health" app that will seek to aid all communities once completed. Stay tuned :)  
 
 
 
